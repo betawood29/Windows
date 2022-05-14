@@ -1,0 +1,30 @@
+This file contains windows troubleshooting data.
+this data is read only data no modifications can be made other than the owner of this repo.
+some common commands used in linux os are written below 
+ls
+pwd
+cd
+mv
+cp
+echo'
+touch
+cat
+tac
+man
+help
+.
+.
+.
+
+
+some git commands are:
+git init
+git user config 
+git pull
+git push -u
+git clone url
+git remote origin url
+.
+.
+.
+
